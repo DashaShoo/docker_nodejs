@@ -1,0 +1,14 @@
+{
+  "name": "docker_nodejs_example",
+  "version": "1.0.0",
+  "description": "Пример приложения Node.js с использованием Docker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "author": "Ваше Имя",
+  "license": "ISC"
+}
